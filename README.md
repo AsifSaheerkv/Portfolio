@@ -9,7 +9,8 @@
 * Validate team with historical data and test through simulations.
 * Present results with interactive visualizations and user-friendly dashboards.
 
-![top 11 team sample]!(https://github.com/AsifSaheerkv/image/top 11 team sample.png)
+![top 11 team sample]![top 11 team sample](https://github.com/AsifSaheerkv/Best_11_criclket_player/image/top 11 team sample.png)
+
   
 ## [project 2 : Sales Analysis](https://github.com/AsifSaheerkv/Sales_Analysis)
 
