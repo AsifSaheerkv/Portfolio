@@ -22,7 +22,7 @@
 * **Analysis Goals:** Identify trends, optimize strategies, and enhance sales performance.
 * **Outcomes:** Improved understanding, identify improvement areas, and data-driven decision-making for sales optimization.
 
-![sale sample]![sale sample](https://github.com/AsifSaheerkv/image/sale_1.png)
+![sale sample]!([image/sale_1.png](https://github.com/AsifSaheerkv/Best_11_criclket_player/blob/main/image/sale_1.png))
 
   
 ## [project 3 : Yahoo Finance Web Scrapping Package](https://github.com/AsifSaheerkv/Web_Scrapping)
