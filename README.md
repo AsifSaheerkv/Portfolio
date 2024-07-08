@@ -29,7 +29,7 @@
     - Simulation results and match predictions.
   - User-friendly dashboards for in-depth analysis and insights.
 
-## [project 2 : Sales Analysis]((https://github.com/AsifSaheerkv/Sales_Analysis)
+## [project 2 : Sales Analysis](https://github.com/AsifSaheerkv/Sales_Analysis)
 
 - **Sales Analysis Objective:**
   - Examine an organization’s sales data to understand performance and identify opportunities for improvement.
@@ -69,7 +69,7 @@
   - Identification of areas for strategic improvement.
   - Data-driven decision-making for sales optimization.
 
-## [project 3 : Yahoo Finance Web Scrapping Package]((https://github.com/AsifSaheerkv/Web_Scrapping)
+## [project 3 : Yahoo Finance Web Scrapping Package](https://github.com/AsifSaheerkv/Web_Scrapping)
 
 - **Repository Purpose:**
   - Demonstrate how to use the yahoo_fin package to scrape data from Yahoo Finance.
