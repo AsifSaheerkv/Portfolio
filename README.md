@@ -9,7 +9,7 @@
 * Validate team with historical data and test through simulations.
 * Present results with interactive visualizations and user-friendly dashboards.
 
-#sample model  ![](image/top 11 team sample.png)
+#sample model  (image/top 11 team sample.png)
   
 ## [project 2 : Sales Analysis](https://github.com/AsifSaheerkv/Sales_Analysis)
 
